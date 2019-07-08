@@ -53,7 +53,7 @@ if (isset($_SESSION["logged_in"])) {
         <img src="img/Logo_Be_Sports_Vector.png" class="mr-3" alt="...">
         <a href="logout.php" class="btn btn-outline-danger"title="cerrar sesión"><span class="icon icon-sign-out" style="font-size:20px;"><br><h6>Cerrar<br>Sesión</h6></span></a>
             <div class="media-body">
-
+                <br>
             </div>
         </center>
     </div>
