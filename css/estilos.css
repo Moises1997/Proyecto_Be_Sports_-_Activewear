@@ -1,0 +1,226 @@
+/*
+/*
+/*
+/*
+/*
+/*ESTILOS DEL MENU PRINCIPAL*/
+
+.mr-3{
+    width: 120px;
+    height: 120px;
+}
+
+.flex-shrink-0 .nav-tabs {
+    border-bottom: 3px solid #ddd;
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+.flex-shrink-0 .nav-item{
+    text-align: center;
+    margin: 0px auto;
+}
+
+.flex-shrink-0 ul{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    width: 645px;
+    margin: auto;
+}
+
+.nav-link{
+    color: #000;
+}
+
+.nav-link:hover{
+    background: #b3ded5;
+    color: #000;
+}
+
+.media center{
+    margin: auto;
+    width: 130px;
+    height: 130px;
+}
+
+.media a{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 0.8em;
+    width: 60px;
+    height: 80px;
+}
+
+.media a span{
+    font-size: 10px;
+}
+
+span h6{
+    margin: auto;
+    text-align: center;
+    font-size: 0.6em;
+}
+
+.tab-content{
+    width: 100%
+}
+
+.tab-content .btn{
+    width: 150px;
+    height: 150px;
+    justify-content: space-between;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px auto;
+    background: #b3ded5;
+    border: 0;
+    border-radius: 10%;
+}
+
+.tab-content .btn:hover{
+    background: #ccc;
+    color: #000;
+}
+
+.tab-content .btn img{
+    width: 60px;
+    height: 60px;
+}
+/*FIN DE LOS ESTILOS DEL MENU PRINCIPAL*/
+/*
+/*
+/*
+/*
+/*
+
+
+
+
+
+/*
+/*
+/*
+/*
+/*
+/*ESTILOS DEL MENU SECUNDARIO*/
+
+
+
+/*--->AQUI VAN LOS ESTILOS DEL MENU QUE VA IR DENTRO DE CADA INTERFAZ DE LOS FORMULARIOS<---*/
+
+
+
+/*FIN DE LOS ESTILOS DEL MENU SECUNDARIO*/
+/*
+/*
+/*
+/*
+/*
+
+
+
+
+
+/*
+/*
+/*
+/*
+/*
+/*ESTILOS DE LOS FORMULARIOS DE REGISTRO*/
+
+
+
+/*--->AQUI VAN LOS ESTILOS DE LOS FORULARIOS DE REGISTRO<---*/
+
+.control-group{
+    width: 90%;
+    margin: auto;
+}
+
+#cont_checkbox{
+    overflow-y: scroll;
+    width: 55%;
+    max-height: 300px;
+    margin: auto;
+}
+
+#checkbox{
+    margin: 7px auto;
+    width: 20px;
+    height: 15px;
+}
+
+@media screen and (max-width: 470px){
+    #cont_checkbox{
+        width: 100%;
+    }
+}
+
+
+
+/*FIN DE LOS ESTILOS DE LOS FORMULARIOS DE REGISTRO*/
+/*
+/*
+/*
+/*
+/*
+
+
+
+
+
+
+
+
+/*
+/*
+/*
+/*
+/*
+/*ESTILOS DE LAS TABLAS*/
+
+
+
+/*--->AQUI VAN LOS ESTILOS DE LAS TABLAS<---*/
+td{
+    text-align: center;
+}
+
+
+
+/*FIN DE LOS ESTILOS DE LAS TABLAS*/
+/*
+/*
+/*
+/*
+/*
+
+
+
+
+
+
+
+
+
+/*
+/*
+/*
+/*
+/*
+/*ESTILOS DEL PIE DE PAGINA*/
+footer{
+    background: #ccc;
+    color: #000;
+    border-bottom: 10px solid #b3ded5;
+    font-size: 10px;
+}
+
+
+/*FIN DE LOS ESTILOS DEL PIE DE PAGINA*/
+/*
+/*
+/*
+/*
+/*
